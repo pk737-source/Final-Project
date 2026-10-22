@@ -1,4 +1,4 @@
-/* DEVELOPER: Pranav Kurra, IS117-XXX, Fall 2026 */
+/* DEVELOPER: Pranav Kurra, IS117-001, Fall 2026 */
 :root{--navy:#1f2a44;--brick:#b8472f;--cream:#f7f4ef;--ink:#222831;--gold:#f2b84b;}
 body{background:var(--cream);color:var(--ink);font-size:1.05rem;line-height:1.7;}
 h1,h2,h3,.navbar-brand{font-family:Georgia,"Times New Roman",serif;color:var(--navy);}
